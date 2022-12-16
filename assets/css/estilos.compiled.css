@@ -125,11 +125,11 @@ nav .enlaces a:hover {
 }
 
 .grid {
-  background: #FEFEFE;
+  background: #ffffff00;
 }
 
 .grid .card {
-  background: #FEFEFE;
+  background: #ffffff;
 }
 
 body.dark .grid .card {
